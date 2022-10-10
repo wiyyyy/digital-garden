@@ -1,7 +1,6 @@
 ---
 tags: senior-engineer career
 ---
-# Yüksek Performans Gösteren Yazılımcı İpuçları
 
 ## How do I become a high performing Senior/Staff Engineer
 
